@@ -1,0 +1,11 @@
+{
+  "realm": "lab3",
+  "bearer-only": true,
+  "auth-server-url": "http://127.0.0.1:8080/auth",
+  "ssl-required": "external",
+  "resource": "login-app",
+  "credentials": {
+    "secret": "979f7f94-f8c7-463c-8203-dad0645dfcdc"
+  },
+  "principal-attribute": "preferred_username"
+}
